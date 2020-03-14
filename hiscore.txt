@@ -1,0 +1,10 @@
+aaa 100
+bbb 90
+ccc 80
+ddd 70
+hoge 65
+sak 65
+eee 60
+fff 50
+ggg 20
+hhh 10
